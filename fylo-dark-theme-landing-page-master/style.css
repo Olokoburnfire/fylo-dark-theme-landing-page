@@ -271,13 +271,13 @@ header{
 }
 
 .username p {
-  font-size: 10px;
+  font-size: 14px;
   color: white;
   font-weight: 700;
 }
 
 .username p span{
-  font-size: 8px;
+  font-size: 14px;
   font-weight: 400;
   color: rgba(255, 255, 255, 0.664);
   letter-spacing: 0.5px;
